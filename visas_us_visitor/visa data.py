@@ -1,6 +1,6 @@
 import urllib.request
 
-
+# City codes preprocessing.
 codes = dict()
 with open('codes') as in_f:
     for line in in_f:
@@ -20,8 +20,9 @@ counter = 0
 # Interview Waiver Crew and Transit (C, D, C1/D) 	10 Calendar Days
 # Interview Waiver Visitors (B1/B2)
 
-type_of_interview = 0
+type_of_interview = 0  # replace with needed index from the comment above (not implemented yet)
 
+# Gets url with the wait times for each code. All unavailable requests are replaced with 999. Prints out a note into stdout every 5 processed requests.
 for code in codes.keys():
     url = f'https://travel.state.gov/content/travel/resources/database/database.getVisaWaitTimes.html?cid={code}&aid' \
           f'=VisaWaitTimesHomePage '
@@ -37,9 +38,11 @@ for code in codes.keys():
     if counter % 5 == 0:
         print(f'{counter} requests processed')
 
+# Sorts the results by wait time
 out = ''
 for name in sorted(answers, key=lambda x: answers[x]):
     out += f'{name}\t{answers[name]}\n'
 
+# Writes sorted results to a file
 with open('answer.txt', 'w') as out_file:
     out_file.write(out)
