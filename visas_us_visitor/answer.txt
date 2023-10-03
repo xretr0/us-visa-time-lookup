@@ -1,0 +1,236 @@
+Brussels	1
+Krakow	1
+Tokyo	1
+Johannesburg	2
+Kolonia	2
+Ashgabat	4
+Skopje	4
+Suva	4
+Belgrade	5
+Ho Chi Minh City	5
+Koror	5
+Riga	6
+Yaounde	6
+Baku	7
+Bandar Seri Begawan	7
+Berlin	7
+Bern	7
+Frankfurt	7
+Majuro	7
+Osaka-Kobe	7
+Podgorica	7
+Sofia	7
+Tallinn	7
+Usun-New York	7
+Bujumbura	8
+Naha	8
+Singapore	9
+Conakry	10
+Kuwait	10
+Windhoek	10
+Addis Ababa	11
+Bratislava	11
+Bridgetown	11
+Recife	11
+Bucharest	14
+Dhahran	14
+Naples	14
+Nouakchott	14
+Surabaya	14
+Antananarivo	15
+Athens	15
+Maputo	15
+Oslo	15
+Sarajevo	15
+Vilnius	16
+Warsaw	16
+Florence	18
+Milan	18
+Rome	18
+Luxembourg	19
+Hanoi	21
+Jakarta	21
+Kuala Lumpur	21
+Ljubljana	21
+Zagreb	21
+Durban	23
+Nicosia	23
+Munich	24
+Managua	25
+Dublin	26
+Nassau	26
+Jeddah	28
+Seoul	29
+Reykjavik	30
+Valletta	30
+Bamako	31
+Riyadh	31
+Dushanbe	32
+Monrovia	32
+Port Moresby	34
+Colombo	35
+Georgetown	35
+Santiago	38
+Cape Town	42
+Copenhagen	42
+Helsinki	43
+Chisinau	44
+Bangkok	50
+Luanda	50
+Almaty	52
+Prague	52
+Apia	55
+Belmopan	55
+Perth	57
+Shanghai	57
+Stockholm	57
+Lisbon	58
+Kingston	59
+Gaborone	60
+Hamilton	60
+Taipei	62
+Phnom Penh	65
+Port Louis	65
+Vientiane	69
+Tashkent	70
+Tel Aviv	70
+Beijing	71
+Kigali	73
+La Paz	75
+Hong Kong	76
+Vienna	77
+Doha	84
+Shenyang	85
+Auckland	86
+Pristina	86
+Djibouti	90
+Paramaribo	90
+Malabo	95
+Praia	97
+Algiers	103
+Ulaanbaatar	105
+Bishkek	107
+Port Of Spain	107
+Tirana	107
+Kinshasa	108
+Panama City	108
+Belfast	110
+London	110
+Harare	113
+Chiang Mai	115
+Lome	115
+Sydney	115
+Cairo	119
+Beirut	121
+Manama	125
+Abidjan	127
+Mbabane	130
+Casablanca	135
+Manila	136
+Nairobi	140
+Dakar	141
+N`Djamena	144
+Karachi	148
+Cotonou	150
+Muscat	150
+Rangoon	150
+Tunis	150
+Budapest	160
+Brasilia	161
+Rio De Janeiro	161
+Lusaka	164
+Lilongwe	167
+Freetown	170
+Dar Es Salaam	173
+Paris	179
+Banjul	180
+Curacao	180
+Melbourne	183
+Jerusalem	184
+Guangzhou	190
+Sao Paulo	190
+Sapporo	190
+Amsterdam	192
+Montevideo	201
+Asuncion	210
+Brazzaville	214
+Porto Alegre	225
+Yerevan	227
+Lima	241
+Amman	252
+Guatemala City	259
+Libreville	260
+Tbilisi	287
+Buenos Aires	310
+San Salvador	317
+Lagos	323
+Ankara	331
+Dhaka	343
+Guayaquil	344
+Santo Domingo	358
+Islamabad	362
+Erbil	367
+Baghdad	374
+Quito	405
+Madrid	408
+Accra	410
+San Jose	445
+Istanbul	448
+Kampala	455
+Hyderabad	499
+Abu Dhabi	507
+Chennai ( Madras)	512
+New Delhi	533
+Kolkata	542
+Dubai	548
+Abuja	557
+Mumbai (Bombay)	576
+Nuevo Laredo	609
+Matamoros	640
+Kathmandu	673
+Hermosillo	693
+Nogales	708
+Merida	710
+Tegucigalpa	717
+Monterrey	723
+Vancouver	732
+Tijuana	737
+Tijuana Tpf	737
+Halifax	750
+Ottawa	750
+Quebec	750
+Ciudad Juarez	751
+Toronto	776
+Bogota	788
+Guadalajara	830
+Mexico City	833
+Calgary	855
+Adana	999
+Asmara	999
+Barcelona	999
+Caracas	999
+Chengdu	999
+Damascus	999
+Dili	999
+Havana	999
+Juba	999
+Kabul	999
+Kaohsiung	999
+Khartoum	999
+Kyiv	999
+Lahore	999
+Marseille	999
+Maseru	999
+Minsk	999
+Montreal	999
+Moscow	999
+Niamey	999
+Nur-Sultan	999
+Ouagadougou	999
+Port Au Prince	999
+Sanaa	999
+St Georges	999
+St Petersburg	999
+Tripoli	999
+Vladivostok	999
+Yekaterinburg	999
