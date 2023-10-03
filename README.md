@@ -5,7 +5,7 @@ Codes for visa type are not currently set up. (I haven't figured the order in th
 
 Default is Interview required B1/B2 visa.
 
-File visas_us_visitor/visa_data.py is the actual script
+File visas_us_visitor/"visa data.py" is the actual script
 
 File visas_us_visitor/codes has information of city codes used by the US visa system, updated in early 2022
 
