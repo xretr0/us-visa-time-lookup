@@ -20,15 +20,17 @@ counter = 0
 # Interview Waiver Crew and Transit (C, D, C1/D) 	10 Calendar Days
 # Interview Waiver Visitors (B1/B2)
 
+type_of_interview = 0
+
 for code in codes.keys():
     url = f'https://travel.state.gov/content/travel/resources/database/database.getVisaWaitTimes.html?cid={code}&aid' \
           f'=VisaWaitTimesHomePage '
     s = urllib.request.urlopen(url).read().decode('utf-8').strip()
     try:
-        time_days = int(s.split('|')[0].split()[0])
+        time_days = int(s.split('|')[type_of_interview].split()[0])
     except ValueError:
         time_days = 999
-    except Exception:
+    except IndexError:
         print(f'error with code number {code}, string {s}')
     answers[codes[code]] = time_days
     counter += 1
