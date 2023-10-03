@@ -1,5 +1,5 @@
 # us-visa-time-lookup
-Small script that looks up US Visa vaiting times from all cities, sorts put by ascending time and outputs into a file.
+Small script that looks up US Visa waiting times from all cities, sorts by ascending time and outputs into a file.
 
 Codes for visa type are not currently set up. (I haven't figured the order in the data)
 
